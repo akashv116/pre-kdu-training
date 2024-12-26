@@ -269,7 +269,7 @@ class LibraryMember {
 }
 
 // Main class for testing the system
-public class LibraryManagementSystem {
+public class App {
   public static void main(String[] args) {
     try {
       // Create a library member
