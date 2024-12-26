@@ -1,8 +1,8 @@
 # Akash Kumar Verma 👨‍💻  
-**Aspiring Software Developer | Problem Solver | Tech Advocate**
+**Aspiring Software Developer | Problem Solver | Tech Enthusiast**
 
 📱 **Phone**: +91 9304135322  
-✉️ **Email**: [akashverma2385@gmail.com](mailto:akashverma2385@gmail.com)  
+✉️ **Email**: [aakashv116@gmail.com](mailto:aakashv116@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/akash-verma-901836251](https://www.linkedin.com/in/akash-verma-901836251/)  
 🐙 **GitHub**: [github.com/akashv116](https://github.com/akashv116)  
 💻 **LeetCode**: [leetcode.com/Akashv116](https://leetcode.com/Akashv116)
@@ -29,8 +29,8 @@
   *Expected Graduation*: June 2025  
 
 - **Guru Gobind Singh Public School, Dhanbad**  
-  *Class XII (PCM + CS)* | **Percentage**: 96% | *2018 – 2020*  
-  *Class X* | **Percentage**: 91.8% | *2018*  
+  *Class XII (PCM + CS)* | **Percentage**: 96% 
+  *Class X* | **Percentage**: 91.8%  
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 ## 💻 **Technical Skills**
-- **Languages**: C++, Python, JavaScript.  
+- **Languages**: C++,Java,Python, JavaScript.  
 - **Web Development**: React.js, Node.js, Express.js.  
 - **Database**: MongoDB, MySQL.  
 - **Tools**: Git/GitHub, Postman.  
