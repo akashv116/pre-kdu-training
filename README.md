@@ -4,8 +4,7 @@
 📱 **Phone**: +91 9304135322  
 ✉️ **Email**: [aakashv116@gmail.com](mailto:aakashv116@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/akash-verma-901836251](https://www.linkedin.com/in/akash-verma-901836251/)  
-🐙 **GitHub**: [github.com/akashv116](https://github.com/akashv116)  
-💻 **LeetCode**: [leetcode.com/Akashv116](https://leetcode.com/Akashv116)
+🐙 **GitHub**: [github.com/akashv116](https://github.com/akashv116) 
 
 ---
 
