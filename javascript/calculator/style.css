@@ -1,0 +1,76 @@
+body {
+  background: linear-gradient(135deg, #1e1e2f, #3c3c5c);
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.calculator-container {
+  background: #282842;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  width: 400px;
+}
+
+h1 {
+  font-size: 45px;
+  margin-bottom: 20px;
+  color: #ffcc00;
+}
+
+.input-container input {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  appearance: none; /* Removes default increment/decrement buttons */
+}
+
+.button-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.btn {
+  background: #ffcc00;
+  border: none;
+  padding: 15px 0;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #1e1e2f;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: #e6b800;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.result-container {
+  margin-top: 20px;
+}
+
+.result-container h2 {
+  font-size: 20px;
+  color: #00ff99;
+}
+
+#result {
+  font-size: 24px;
+  color: #ffcc00;
+  margin-top: 10px;
+}
