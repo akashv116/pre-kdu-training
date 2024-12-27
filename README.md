@@ -1,5 +1,5 @@
 # Akash Kumar Verma 👨‍💻  
-**Aspiring Software Developer | Problem Solver | Tech Enthusiast**
+**Aspiring Software Developer**
 
 📱 **Phone**: +91 9304135322  
 ✉️ **Email**: [aakashv116@gmail.com](mailto:aakashv116@gmail.com)  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ **Work Experience**
+## 🛠️ **Experience**
 
 ### **Realtime Code Editor**
 - 🌐 **Real-time Collaboration**: Built a live collaborative code editor using **React.js**, **Node.js**, and **Socket.io**.  
@@ -29,8 +29,8 @@
   *Expected Graduation*: June 2025  
 
 - **Guru Gobind Singh Public School, Dhanbad**  
-  *Class XII (PCM + CS)* | **Percentage**: 96% |  
-  *Class X* | **Percentage**: 91.8% | 
+  *Class XII (PCM + CS)* | **Percentage**: 96% 
+  *Class X* | **Percentage**: 91.8% 
 
 ---
 
@@ -44,11 +44,11 @@
 
 ## 💻 **Technical Skills**
 - **Languages**: C++, Java, Python, JavaScript.  
-- **Web Development**: React.js, Node.js, Express.js.  
+- **Web Development**: HTML, CSS, React.js, Node.js, Express.js.  
 - **Database**: MongoDB, MySQL.  
 - **Tools**: Git/GitHub, Postman.  
 - **Core Concepts**: OS, OOPs, DBMS.
 
 ---
 
-> *"Passionate about coding and creating impactful solutions. Ecited to be a part of Kickdrum!"*
+> *"Passionate about coding and creating impactful solutions. Excited to be a part of Kickdrum!"*
